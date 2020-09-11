@@ -49,7 +49,7 @@ function App() {
                 <div className="product-name">
                   <a href="product.html">Slim Shirt</a>
                 </div>
-                <div className="product-brand">LAcoste</div>
+                <div className="product-brand">Lacoste</div>
                 <div className="product-price">$50</div>
                 <div className="product-rating">4.2 Stars (10 Reviews)</div>
               </div>
@@ -64,7 +64,7 @@ function App() {
                 <div className="product-name">
                   <a href="product.html">Slim Shirt</a>
                 </div>
-                <div className="product-brand">LAcoste</div>
+                <div className="product-brand">Lacoste</div>
                 <div className="product-price">$50</div>
                 <div className="product-rating">4.2 Stars (10 Reviews)</div>
               </div>
@@ -79,7 +79,7 @@ function App() {
                 <div className="product-name">
                   <a href="product.html">Slim Shirt</a>
                 </div>
-                <div className="product-brand">LAcoste</div>
+                <div className="product-brand">Lacoste</div>
                 <div className="product-price">$50</div>
                 <div className="product-rating">4.2 Stars (10 Reviews)</div>
               </div>
@@ -94,7 +94,7 @@ function App() {
                 <div className="product-name">
                   <a href="product.html">Slim Shirt</a>
                 </div>
-                <div className="product-brand">LAcoste</div>
+                <div className="product-brand">Lacoste</div>
                 <div className="product-price">$50</div>
                 <div className="product-rating">4.2 Stars (10 Reviews)</div>
               </div>
@@ -109,7 +109,7 @@ function App() {
                 <div className="product-name">
                   <a href="product.html">Slim Shirt</a>
                 </div>
-                <div className="product-brand">LAcoste</div>
+                <div className="product-brand">Lacoste</div>
                 <div className="product-price">$50</div>
                 <div className="product-rating">4.2 Stars (10 Reviews)</div>
               </div>
@@ -124,7 +124,7 @@ function App() {
                 <div className="product-name">
                   <a href="product.html">Slim Shirt</a>
                 </div>
-                <div className="product-brand">LAcoste</div>
+                <div className="product-brand">Lacoste</div>
                 <div className="product-price">$50</div>
                 <div className="product-rating">4.2 Stars (10 Reviews)</div>
               </div>
